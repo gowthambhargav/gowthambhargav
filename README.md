@@ -26,6 +26,5 @@ Feel free to reach out to me for collaboration, projects, or just to chat about 
 
 
 
-![gowthambhargav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gowthambhargav&theme=tokyonight&hide_border=true)
 ![gowthambhargav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthambhargav&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-![gowthambhargav's Stats](https://github-readme-stats.vercel.app/api?username=gowthambhargav&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
