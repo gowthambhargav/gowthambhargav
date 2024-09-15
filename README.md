@@ -21,10 +21,6 @@ Feel free to reach out for collaboration, exciting projects, or just to chat abo
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthambhargav&layout=compact" alt="Top Languages">
-  <br />
-  <a href="https://github.com/gowthambhargav/rust-learning-path">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gowthambhargav&repo=rust-learning-path&show_owner=true" alt="Pinned Repo" />
-  </a>
 </div>
