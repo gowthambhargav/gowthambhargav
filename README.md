@@ -20,4 +20,4 @@ Feel free to reach out to me for collaboration, projects, or just to chat about 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthambhargav&layout=compact)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthambhargav&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gowthambhargav&repo=rust-learning-path&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
