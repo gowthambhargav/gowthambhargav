@@ -1,9 +1,10 @@
 <div align="center">
   <h1>Hi there! 👋 I'm Gowtham K Bhargav</h1>
   <p>A passionate Full-Stack & Android Developer</p>
-  <img src="https://img.shields.io/badge/Full--Stack-Gray?style=for-the-badge" alt="Full-Stack Badge">
-  <img src="https://img.shields.io/badge/React%20Native-Purple?style=for-the-badge" alt="React Native Badge">
+  <img src="https://img.shields.io/badge/Full--Stack-Light%20Gray?style=for-the-badge&logo=fullstack" alt="Full-Stack Badge">
+  <img src="https://img.shields.io/badge/React%20Native-Light%20Purple?style=for-the-badge&logo=react" alt="React Native Badge">
 </div>
+
 
 
 ## About Me 🚀
