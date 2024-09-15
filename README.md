@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there! 👋 I'm Gowtham K Bhargav</h1>
-  <p>A passionate Full-Stack Developer</p>
-  <img src="https://img.shields.io/badge/Stack-MERN%20%7C%20Next.js%20%7C%20React%20Native-blueviolet" alt="Tech Stack Badge">
+  <p>A passionate Full-Stack & Android Developer</p>
+  <img src="https://img.shields.io/badge/Stack-Full--Stack%20%7C%20React%20Native-blueviolet" alt="Tech Stack Badge">
 </div>
 
 ## About Me 🚀
