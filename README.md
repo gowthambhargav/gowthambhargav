@@ -17,7 +17,7 @@ I'm a passionate full-stack developer with expertise in web development using th
 Feel free to reach out to me for collaboration, projects, or just to chat about technology and development!
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthambhargav&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthambhargav)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthambhargav&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
