@@ -18,3 +18,6 @@ Feel free to reach out to me for collaboration, projects, or just to chat about 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthambhargav&hide_progress=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthambhargav&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
