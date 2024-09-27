@@ -10,7 +10,7 @@
 
 ## About Me 🚀
 
-I'm a dedicated full-stack developer with expertise in web development, primarily working with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and **Next.js**. I enjoy creating scalable and user-friendly applications that address real-world problems. Recently, I've also started exploring **React Native** to expand into mobile development, and I'm diving into **Python** to broaden my skill set.
+I'm a dedicated full-stack developer with expertise in web development, primarily working with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and **Next.js**. I enjoy creating scalable and user-friendly applications that address real-world problems. Recently, I've also started exploring **React Native** to expand into mobile development, and I'm diving into **Rust** to broaden my skill set.
 
 ## Get in Touch 📫
 
