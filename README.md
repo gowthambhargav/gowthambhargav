@@ -6,12 +6,12 @@
 
 # Gowtham K Bhargav
 
-**Mobile App Creator · MERN Developer · Rust Explorer**
+**Mobile App Creator · MERN Developer · Data Science Explorer**
 
 [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![MERN Stack](https://img.shields.io/badge/MERN%20Stack-0d2818?style=for-the-badge&logo=mongodb&logoColor=1d9e75)](https://www.mongodb.com/mern-stack)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Rust](https://img.shields.io/badge/Rust-learning-2a1a08?style=for-the-badge&logo=rust&logoColor=ef9f27)](https://www.rust-lang.org/)
+[![Python](https://img.shields.io/badge/Python-Exploring-2a1a08?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 I craft **cross-platform mobile apps** with `React Native` and build the backends that power them using the **MERN stack** and **Next.js**. I love shipping products that feel native, perform fast, and actually solve real-world problems.
 
-Currently leveling up with **Rust** — because systems programming is the final boss, and I'm here for it. 🦀
+Currently exploring **Python for Data Science** — diving into data, models, and insights. 📊
 
 ---
 
@@ -29,7 +29,7 @@ Currently leveling up with **Rust** — because systems programming is the final
 
 | Mobile | Frontend | Backend | Database | Exploring |
 |:---:|:---:|:---:|:---:|:---:|
-| React Native · Expo | React.js · Next.js | Node.js · Express.js | MongoDB · Mongoose | Rust 🦀 |
+| React Native · Expo | React.js · Next.js | Node.js · Express.js | MongoDB · Mongoose | Python (Data Science) 📊 |
 
 ---
 
@@ -43,7 +43,7 @@ Currently leveling up with **Rust** — because systems programming is the final
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d2818?style=flat-square&logo=mongodb&logoColor=1d9e75)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2a1a08?style=flat-square&logo=javascript&logoColor=ef9f27)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0c1929?style=flat-square&logo=typescript&logoColor=378add)
-![Rust](https://img.shields.io/badge/Rust-2a1a08?style=flat-square&logo=rust&logoColor=ef9f27)
+![Python](https://img.shields.io/badge/Python-2a1a08?style=flat-square&logo=python&logoColor=3776AB)
 ![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS_Code-0c1929?style=flat-square&logo=visualstudiocode&logoColor=378add)
 
@@ -54,6 +54,7 @@ Currently leveling up with **Rust** — because systems programming is the final
 ```
 →  Building React Native apps that feel truly native on both platforms
 →  Obsessed with clean architecture and readable, maintainable code
+→  Exploring Python for Data Science and ML basics
 →  Always open to collabs — bring your wildest project idea
 →  Ask me anything: MERN · Next.js · mobile dev · REST APIs
 →  Fun fact: best commits happen after midnight ☕
